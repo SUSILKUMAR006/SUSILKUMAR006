@@ -13,7 +13,7 @@
 🛠️ Tech Stack: JavaScript · React.js · Node.js · Express.js · MongoDB · PHP · MySQL · Tailwind CSS · HTML/CSS<br>
 🎨 UI/UX enthusiast — designing in Figma<br>
 🌱 Always learning, always building<br>
-📫 Reach me: susilkumar@gmail.com
+📫 Reach me: susilkumar2006nano@gmail.com
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susilkumar006/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:susilkumar2006nano@gmail.com)
