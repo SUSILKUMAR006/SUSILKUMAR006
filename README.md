@@ -2,7 +2,7 @@
 
 # 👋 Welcome, I'm **Susilkumar S**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;MERN+%26+PHP+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer)](https://git.io/typing-svg)
 
 </div>
 
