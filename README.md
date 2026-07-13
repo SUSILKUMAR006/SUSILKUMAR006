@@ -26,8 +26,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SUSILKUMAR006&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSILKUMAR006&theme=tokyonight&hide_border=true&layout=compact)
-
 ---
 
 <div align="center">
